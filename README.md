@@ -24,5 +24,10 @@
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt=".NET" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/DotNet.svg">
   <img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CS.svg"> 
-  <img align="center" alt="Visual Studio" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/VisualStudio-Dark.svg">  
+  <img align="center" alt="Visual Studio" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/VisualStudio-Dark.svg"> 
+  <img align="center" alt="Visual Studio Code" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Dark.svg">
 </div>
+
+<p></p>
+
+
