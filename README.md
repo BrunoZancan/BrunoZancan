@@ -21,7 +21,9 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoZancan&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-<div style="display: inline_block" align="center"><br>
+<br>
+
+<div style="display: inline_block" align="center">
   <img align="center" alt=".NET" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/DotNet.svg">
   <img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CS.svg"> 
   <img align="center" alt="Visual Studio" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/VisualStudio-Dark.svg"> 
