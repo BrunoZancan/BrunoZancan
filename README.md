@@ -5,11 +5,14 @@
 
 <div align="center">
 
-🔭 Eu sou um estudante Back-end e estou aprendendo C# e Lógica de Programação
+<p>&#128301; Meu nome é Bruno, tenho 13 anos e sou um estudante Back-end, estou aprendendo <strong>C#</strong> e <strong>Lógica de Programação</strong>.</p>
+<!-- &#128301; = 🔭 -->
 
-💬 Apaixonado por xadrez e tecnologia
+<p>&#128172; Apaixonado por xadrez e tecnologia</p>
+<!-- &#128172; = 💬 -->
 
-🎯 Em busca da primeira oportunidade 
+<p>&#127919; Em busca da primeira oportunidade </p>
+<!-- &#127919; = 🎯 -->
 
 <br>
 
